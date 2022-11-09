@@ -1,0 +1,36 @@
+body {
+    background-color: #ecdcdb;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1,h2,h3,h4 {
+    color: #f2ebec;
+    background-color: #234145;
+    font-size: 24px;
+}
+
+p {
+    color: #234145;
+    font-size: 16px;
+}
+
+section {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+
+}
+
+ul {
+    color: #234145;
+    font-size: 16px;
+}
+
+li {
+    color: #234145;
+    font-size: 16px;
+    list-style-type: none;
+
+}
